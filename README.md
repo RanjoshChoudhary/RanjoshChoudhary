@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ranjosh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-- 🌱 I’m currently learning **Microsoft PowerBI**
+- 🌱 I’m currently learning **Advanced SQL**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/RanjoshChoudhary)
 
