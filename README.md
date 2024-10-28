@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ranjosh</h1>
 <h3 align="center">Data Analyst @ CUEMATH </h3>
 
-- 🌱 I’m currently learning **Advanced SQL**
+- 🌱 I’m currently wotking with **Advanced SQL in Amazon Redshift**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/RanjoshChoudhary)
 
